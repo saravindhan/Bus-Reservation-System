@@ -1,7 +1,3 @@
-Here’s a README file for your GitHub repository for the bus reservation system project:
-
----
-
 # Bus Reservation System
 
 This is a simple Bus Reservation System developed in Java that allows passengers to book tickets for available buses. It allows users to view bus details, check availability, and make bookings.
@@ -83,11 +79,3 @@ Your Booking is Confirmed
 * Add features for canceling bookings.
 * Implement a database to store bus and booking information persistently.
 * Handle edge cases such as invalid inputs.
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-This README file should serve as a comprehensive guide for anyone using or contributing to your project on GitHub. You can update it further with any additional features or changes you make to the system.
